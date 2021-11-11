@@ -1,0 +1,47 @@
+.head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+  }
+  .logo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .logo__img {
+    height: 60px;
+  }
+  .logo__name {
+    font-size: 40px;
+    color: orange;
+    float: left;
+    background-color: rgba(0, 0, 0, 0.384);
+  }
+  .navbar {
+    display: flex;
+    top: 0px;
+    justify-content: space-between;
+    float: right;
+    background-color:rgba(0, 0, 0, 0.315);
+    width: 50%;
+    margin-top: -5%;
+  }
+  .nav_item {
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+  }
+  .nav_item1 {
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+  }
+  .nav_item5 {
+    font-size: 30px;
+    border: 1px solid orange;
+    color: white;
+    background-color: orange;
+    text-decoration: none;
+  }
+  
