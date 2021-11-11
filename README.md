@@ -26,3 +26,6 @@ Reviews from:
 	
 ## FoodOrder
 In this project,this is the section where customers can submit there orders:
+
+## GitHub pages Link
+https://kiptoorugut.github.io/Lettuce_eat/
