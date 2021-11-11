@@ -1,6 +1,6 @@
 # Lettuce_eat
-# {Moringa_Letuce_Eat}
-#### {A restaurant webpage},
+# Moringa_Letuce_Eat
+#### A restaurant webpage
 #### By **{Kiptoo Mike}**
 ## Description
 
