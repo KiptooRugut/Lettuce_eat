@@ -17,6 +17,7 @@
     color: orange;
     float: left;
     background-color: rgba(0, 0, 0, 0.384);
+    padding-right:20px;
   }
   .navbar {
     display: flex;
@@ -34,7 +35,7 @@
   }
   .nav_item1 {
     font-size: 30px;
-    color: white;
+    color: orange;
     text-decoration: none;
   }
   .nav_item5 {
@@ -166,11 +167,11 @@
   .menu_desc {
     font-size: 20px;
   }
-  menu1,h1{
+  menu1,span{
       color:orange;
   }
   menu1,h3{
-      color: orange;
+      color: black;
 }
 footer {
     background-image: url(Images/image8.png);
