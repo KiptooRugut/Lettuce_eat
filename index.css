@@ -133,7 +133,7 @@
     justify-content: space-around;
     column-gap: 20px;
     row-gap: 50px;
-    margin: 10px;
+    margin: 80px;
   }
   .menu_eat {
     text-align: center;
@@ -154,6 +154,10 @@
     border: 1px solid whitesmoke;
     background-color: white;
     text-align: center;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
   }
   .menufood {
     height: 300px;
@@ -167,3 +171,20 @@
   }
   menu1,h3{
       color: orange;
+}
+footer {
+    background-image: url(Images/image8.png);
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    padding-top: 70px;
+    padding-bottom: 100px;
+  }
+  .copyright {
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+  }
