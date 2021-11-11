@@ -44,4 +44,15 @@
     background-color: orange;
     text-decoration: none;
   }
-  
+  body {
+    background-image: url(Images/image2.png);
+    background-repeat: no-repeat;
+    background-color: lightgrey;
+  }
+  .section__heading {
+    color: white;
+    font-size: 70px;
+    text-align: left;
+    margin-left: 40px;
+    margin-top: 150px;
+}
